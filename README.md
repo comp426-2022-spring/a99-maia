@@ -41,10 +41,10 @@ Some basic roles you will want to consider:
 4. A release manager - someone to manage the packaging and release process for your prototype package
 5. A project manager - someone keeping track of all the moving parts and make sure that everything that needs to happen is happening.
 5. Roles for team members to take charge or different parts of the project. Possible roles:
-    1. Front end lead
-    2. Back end lead
-    3. Database lead
-    4. Design lead
+    1. Front end lead - Cecilia
+    2. Back end lead - Xavier, Stefano
+    3. Database lead - Sagar
+    4. Design lead - Cecilia
     5. Etc.
 
 You will notice that there are more roles than people in your group.
