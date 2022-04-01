@@ -1,0 +1,19 @@
+{
+  "name": "a99-maia",
+  "version": "1.0.0",
+  "description": "MentalLog - COMP 426 Final Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a99-maia.git"
+  },
+  "author": "Cecilia, Xavier, Stefano, Sagar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a99-maia/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a99-maia#readme"
+}
