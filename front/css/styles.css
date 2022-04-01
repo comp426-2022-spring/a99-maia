@@ -3,7 +3,6 @@ body {
     font-family: 'Inter', sans-serif;
 }
 .nav {
-    width: 100%;
     height: 60px;
     padding: 10px;
     align-items: center;
@@ -24,6 +23,7 @@ body {
     font-size: 11px;
     text-align: center;
     color: #217BF4;
+    text-decoration: none;
 }
 
 .loginbutton {
@@ -42,6 +42,35 @@ body {
     color: #FFFFFF !important;
 }
 
-.logo {
+.landing-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+}
+.landing-text {
+    display: flex;
+    flex-direction: column;
+    height: 60%;
+}
+
+.landingbutton {
+    text-align: center;
+    height: 30px !important;
+}
+
+footer {
+    width: 100%;
+    position: fixed;
     left:0;
+    bottom: 0;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #20202D;
+    padding: 20px;
+    font-size: 18px;
 }
