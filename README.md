@@ -2,7 +2,11 @@
 
 ## MentalLog
 
+![MentalLog logo](front/assets/lightlogo.svg)
+
 MentalLog is a web application that allows individuals to keep records of their daily moods in the form of a journal, using a mood scale and an option to enter any text about details of their day. The users will be able to see trends and a summary about their mood on the home page in the form of a graph, as well as mental health resources if their trends show concerns or they mark a day unusually low. This application can help people keep track of their moods and take care of their mental health and find resources as needed. 
+
+>View the deployment [here](https://comp426-2022-spring.github.io/a99-maia/front/index.html).
 
 ## First steps
 
