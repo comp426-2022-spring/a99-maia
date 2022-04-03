@@ -1,16 +1,8 @@
 # a99 Final Project
 
-## UPDATE
+## MentalLog
 
-You don't need to accept this assignment since you are already assigned to teams. So, there is not assignment invite link for a99.
-
-## Summary 
-
-COMP426 final project template repository.
-All your code and documentation goes here.
-Change this text to be a brief description of your final project.
-Put the name of your project in the header above.
-You will change everything below to be the main technical documentation, as outlined below.
+MentalLog is a web application that allows individuals to keep records of their daily moods in the form of a journal, using a mood scale and an option to enter any text about details of their day. The users will be able to see trends and a summary about their mood on the home page in the form of a graph, as well as mental health resources if their trends show concerns or they mark a day unusually low. This application can help people keep track of their moods and take care of their mental health and find resources as needed. 
 
 ## First steps
 
@@ -28,27 +20,9 @@ Other steps that you will need to take after your team has accepted the assignme
 
 ## Team mangement
 
-Plan to meet with your team ASAP.
-Talk through identifying roles within your team.
-
-Try to figure out what each of you are good at/enjoy doing and try to work out roles that incorporate that.
-
-Some basic roles you will want to consider:
-
-1. A review manager - someone to review pull requests and merge or reject them and manage the related discussions
-2. A plan manager - someone to keep an eye on the overall plan and keep the project tab/to-do list up to date
-3. A documentation manager - someone to keep the documentation in order and identify what is missing and needs to be documented
-4. A release manager - someone to manage the packaging and release process for your prototype package
-5. A project manager - someone keeping track of all the moving parts and make sure that everything that needs to happen is happening.
-5. Roles for team members to take charge or different parts of the project. Possible roles:
-    1. Front end lead - Cecilia
-    2. Back end lead - Xavier, Stefano
-    3. Database lead - Sagar
-    4. Design lead - Cecilia
-    5. Etc.
-
-You will notice that there are more roles than people in your group.
-That is because you will all be doing a hybrid job of managing a thing while working on other things.
+1. Front end and Design lead - Cecilia
+2. Back end lead - Xavier and Stefano
+3. Database lead - Sagar
 
 ## Check in with instructional staff
 
