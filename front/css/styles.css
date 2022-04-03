@@ -74,3 +74,51 @@ footer {
     padding: 20px;
     font-size: 18px;
 }
+
+.login-card {
+    width: 40%;
+    margin: auto;
+    top: 50%;
+    transform: translateY(50%);
+    height: 300px;
+    background: #FFFFFF;
+    box-shadow: 0px 26px 49px rgba(146, 165, 184, 0.14);
+    border-radius: 14px;
+    justify-content: center;
+}
+
+.signup-card {
+    height: 400px !important;
+    transform: translateY(30%) !important;
+}
+
+.login-text {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #8C8C8C;
+}
+
+input {
+    width:100%;
+    border: 1px solid #8C8C8C;
+    border-radius:4px;
+    outline:none;
+    padding:10px;
+    box-sizing:border-box;
+    transition:.3s;
+  }
+  
+  input[type=text]:focus{
+    border-color:#217BF4;
+    box-shadow:0 0 8px 0 #217BF4;
+  }
+
+  .inputs {
+      padding: 50px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-around;
+      height: 100%;
+  }
