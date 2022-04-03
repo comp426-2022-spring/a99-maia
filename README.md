@@ -1,7 +1,5 @@
 # a99 Final Project
 
-## MentalLog
-
 ![MentalLog logo](front/assets/lightlogo.svg)
 
 MentalLog is a web application that allows individuals to keep records of their daily moods in the form of a journal, using a mood scale and an option to enter any text about details of their day. The users will be able to see trends and a summary about their mood on the home page in the form of a graph, as well as mental health resources if their trends show concerns or they mark a day unusually low. This application can help people keep track of their moods and take care of their mental health and find resources as needed. 
@@ -27,15 +25,3 @@ Other steps that you will need to take after your team has accepted the assignme
 1. Front end and Design lead - Cecilia
 2. Back end lead - Xavier and Stefano
 3. Database lead - Sagar
-
-## Check in with instructional staff
-
-Schedule a few times throughout the rest of the semester for your team to check-in with your assigned instructional staff member during their scheduled office hours. 
-
-## Assignment instructions
-
-And that is about all you need to get started.
-
-All the rest of the assignment instructions are available at: https://comp426.johndmart.in/a/99
-
-Good skill and be creative!
