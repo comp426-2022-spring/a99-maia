@@ -139,11 +139,13 @@ input {
   .row-1 {
       display: flex;
       flex-direction: row;
+      margin-bottom: 30px;
   }
 
   .mood-card {
       padding: 40px;
       display: flex;
+      width: 50%;
       flex-direction: column;
   }
 
@@ -155,15 +157,25 @@ input {
 
   }
 
+  .journal {
+      display: flex;
+      flex-direction: column;
+      width: 60%;
+      padding: 40px;
+  }
+
   .journal-text {
     background: #FFFFFF;
     border: 1px solid #CED4DA;
     box-sizing: border-box;
     border-radius: 4px;
+    width: 100%;
+    height: 150px;
   }
 
   .mood-selection {
       display: flex;
       flex-direction : row;
+      width: 100%;
       justify-content: space-between;
   }
