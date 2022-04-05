@@ -81,6 +81,9 @@ footer {
     top: 50%;
     transform: translateY(50%);
     height: 300px;
+}
+
+.cards {
     background: #FFFFFF;
     box-shadow: 0px 26px 49px rgba(146, 165, 184, 0.14);
     border-radius: 14px;
@@ -125,8 +128,12 @@ input {
 
   .home-grid {
       display: flex;
+      width: 90%;
       flex-direction: column;
+      margin: auto;
       justify-content: space-between;
+      margin-top: 50px;
+      
   }
 
   .row-1 {
@@ -134,6 +141,29 @@ input {
       flex-direction: row;
   }
 
+  .mood-card {
+      padding: 40px;
+      display: flex;
+      flex-direction: column;
+  }
+
+  .mood-card p {
+      color: #a8acaf;
+  }
+
   .row-2 {
 
+  }
+
+  .journal-text {
+    background: #FFFFFF;
+    border: 1px solid #CED4DA;
+    box-sizing: border-box;
+    border-radius: 4px;
+  }
+
+  .mood-selection {
+      display: flex;
+      flex-direction : row;
+      justify-content: space-between;
   }
