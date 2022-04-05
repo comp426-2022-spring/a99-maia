@@ -1,6 +1,6 @@
-#Meeting Notes for COMP 426 Project
+# Meeting Notes for COMP 426 Project
 
-##Meeting 00 
+## Meeting 00 
 March 29, 2022
 Present: Cecilia, Xavier, Sagar
 
@@ -14,7 +14,7 @@ Project Idea: Mental health mood tracking app
 - If a person logs a mood that is low/negative, we can offer mental health resources
 
 
-##Meeting 01
+## Meeting 01
 April 5th, 2022
 Present: Cecilia, Xavier, Sagar
 
