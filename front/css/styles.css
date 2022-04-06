@@ -188,7 +188,8 @@ input {
   }
 
   .resources {
-      width: 80%;
+      width: 85%;
       margin: auto;
-      margin-top: 60px;
+      margin-top: 50px;
+      margin-bottom: 50px;
   }
