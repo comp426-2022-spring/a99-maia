@@ -75,6 +75,9 @@ footer {
     font-size: 18px;
 }
 
+footer a {
+    text-decoration: none;
+}
 .login-card {
     width: 40%;
     margin: auto;
