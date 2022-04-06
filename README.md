@@ -8,22 +8,22 @@
 
 ## Directory
 
-[Team Meeting Notes](https://github.com/comp426-2022-spring/a99-maia/blob/main/docs/Meeting-Notes.md)
-[Project Board](https://github.com/comp426-2022-spring/a99-maia/projects/1)
+- [Team Meeting Notes](https://github.com/comp426-2022-spring/a99-maia/blob/main/docs/Meeting-Notes.md)
+- [Project Board](https://github.com/comp426-2022-spring/a99-maia/projects/1)
 
 ## First steps
 
 Other steps that you will need to take after your team has accepted the assignment:
 
-- [x]Choose a license and update the LICENSE file accordingly. 
-- [x]Edit this README.md file and use it as the main location of your technical documentation with links out to information contained under `/docs/`.
+- [x] Choose a license and update the LICENSE file accordingly. 
+- [x] Edit this README.md file and use it as the main location of your technical documentation with links out to information contained under `/docs/`.
 - [x] Create a `/docs/` directory for more elaborate documentation of your API, planning notes, etc.
 - [x] Make sure that all of your team members have access to the repository as administrators.
 - [x] Create a project under the **Projects** tab. Use this to manage your planning. Create a To-do list, etc. Explore the tools available and user them to manage your project.
 - [x] Assign team roles and include a listing of those roles in this README.md file or in another file under `/docs/`.
-- [] Then put your entire development workflow in this repository.
-- [] Use **Pull requests** to propose changes and incorporate them into your code from various team members. 
-- [] Use **Issues** to identify and track bugs and also to communicate about various aspects of the project.
+- [ ] Then put your entire development workflow in this repository.
+- [ ] Use **Pull requests** to propose changes and incorporate them into your code from various team members. 
+- [ ] Use **Issues** to identify and track bugs and also to communicate about various aspects of the project.
 
 ## Team mangement
 
