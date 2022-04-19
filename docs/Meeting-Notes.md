@@ -19,3 +19,8 @@ April 5th, 2022
 Present: Cecilia, Xavier, Sagar
 
 Dicussed changes to front end design and talked about how to implement the backend and design the database. Updated project board with completed tasks and planned tasks.  
+
+## Meeting 02
+April 19, 2022
+Present:
+
