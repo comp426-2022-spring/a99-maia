@@ -22,5 +22,7 @@ Dicussed changes to front end design and talked about how to implement the backe
 
 ## Meeting 02
 April 19, 2022
-Present:
+Present: Cecilia, Xavier, Sagar, Stefano
+
+Discussed issues with CSS referencing on localhost, and delegated work for connecting front + back end. 
 
