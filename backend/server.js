@@ -7,6 +7,7 @@ const port = 5000
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
+app.use(express.static('./front'));
 
 app.listen(port, () => {
     console.log(`Server is active on port ${port}`)
