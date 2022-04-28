@@ -10,6 +10,7 @@
 
 - [Team Meeting Notes](https://github.com/comp426-2022-spring/a99-maia/blob/main/docs/Meeting-Notes.md)
 - [Project Board](https://github.com/comp426-2022-spring/a99-maia/projects/1)
+- [Figma Mockup](https://www.figma.com/file/ActriAr8yrSDnxJXgsbCwE/COMP-426?node-id=0%3A1)
 
 ## First steps
 
