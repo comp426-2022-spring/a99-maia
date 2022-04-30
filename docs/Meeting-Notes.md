@@ -26,3 +26,8 @@ Present: Cecilia, Xavier, Sagar, Stefano
 
 Discussed issues with CSS referencing on localhost, and delegated work for connecting front + back end. 
 
+## Meeting 03
+April 30, 2022
+Present: Cecilia, Xavier, Sagar
+
+Discussed end points documentation, planned and added recorded demo video. 
