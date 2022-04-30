@@ -1,4 +1,3 @@
-/**Execute server by being in the 99-maia directory and type node ./backend/server.js*/
 const express = require('express');
 const db = require("../database/database.js")
 const date = new Date()
