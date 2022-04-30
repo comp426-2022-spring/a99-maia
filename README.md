@@ -20,7 +20,7 @@ Run app with the command <node ./backend/server.js> and to access the app go to 
 
 ### /MentalLog/CreateAccount/:name/:password
 
-Creates an account assuming the name and password do not exist in the database.
+Creates an account assuming the name and password do not already exist in the database.
 
 ### /MentalLog/LogIn/:name/:password
 
@@ -28,7 +28,7 @@ Checks to see if name and password exist in database. If so, it takes you to you
 
 ### /MentalLog/:choice(Up|Down|Neutral)/:name/:password
 
-Checks if you have already made a log today. If you didn't make a log today, it will allow you to log your mood. 
+Checks if you have already made a log today. If you didn't make a log today, it will log your mood by updating the database. 
 
 ## Team mangement
 
